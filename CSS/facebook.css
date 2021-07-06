@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+}
+
 a{padding-left:10px}
 
 .header{color:dodgerblue;
