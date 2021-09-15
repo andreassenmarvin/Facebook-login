@@ -1,6 +1,5 @@
 # FACEBOOK LOGIN
-#### This is a replica of the desktop facebook login page.
-#### By **Marvin Macharia**
+This is a replica of the desktop facebook login page.
 ## Description
 ![Website image](/Assets/README/fb.png)
 ## Setup/Installation Requirements
@@ -17,7 +16,7 @@
 * CSS
 ## Support and contact details
 #### Incase of any contributions,query or issues,you can reach me through the email below:
-*machariamarvin625@gmail.com*
+machariamarvin625@gmail.com
 ### License
 **MIT**
 Copyright (c) 2020 **MARVIN MACHARIA**
