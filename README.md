@@ -15,7 +15,6 @@
 ## Technologies Used
 * HTML
 * CSS
-* JavaScript
 ## Support and contact details
 #### Incase of any contributions,query or issues,you can reach me through the email below:
 *machariamarvin625@gmail.com*
