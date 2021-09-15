@@ -2,7 +2,7 @@
 #### This is a replica of the desktop facebook login page.
 #### By **Marvin Macharia**
 ## Description
-![Website image](/Assets/README/scr1.png)
+![Website image](/Assets/README/fb.png)
 ## Setup/Installation Requirements
 * Fork/Clone the repository
 ```
