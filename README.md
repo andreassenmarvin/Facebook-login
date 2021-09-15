@@ -10,7 +10,7 @@ This is a replica of the desktop facebook login page.
 * Open your project on your favorite editor
 * Open project on Live Server
 ## Known Bugs
-#### No known bugs
+ No known bugs
 ## Technologies Used
 * HTML
 * CSS
@@ -18,5 +18,5 @@ This is a replica of the desktop facebook login page.
 #### Incase of any contributions,query or issues,you can reach me through the email below:
 machariamarvin625@gmail.com
 ### License
-**MIT**
+**<a href="https://github.com/andreassenmarvin/Facebook-login/blob/master/LICENSE">MIT</a>**
 Copyright (c) 2020 **MARVIN MACHARIA**
